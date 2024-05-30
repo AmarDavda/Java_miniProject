@@ -1,0 +1,16 @@
+Command to Compile and Run the project is:-
+\jp_project> javac -cp driver.jar;. myGroceryStore.java
+\jp_project> java -cp driver.jar;. myGroceryStore
+
+
+In Java DataBase Connectivity,
+xampp is used to connect the project with localhost/phpMyAdmin;
+mysql database have:
+1. grocery db
+2. cust table
+-> cust table having multiple rows and columns
+
+
+For authorized page:-
+Admin: amar
+Password: 1715
